@@ -12,7 +12,7 @@ public class Lab046 {
 //        else{
 //            System.out.println("False");
 //        }
-//
+//60
 //
 //        if(true){
 //            System.out.println("Only If");
